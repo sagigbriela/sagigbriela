@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sagigbriela
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python and I'm getting really good at it!
+- 👋 Hi, I’m @sagigbriela and I'm 42Student.
+- 👀 I’m interested in Data Analisys and Game Development.
+- 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
