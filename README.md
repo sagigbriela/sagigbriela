@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @sagigbriela and I'm 42Student.
-- 👀 I’m interested in Data Analisys and Game Development.
-- 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+<a href="https://im.ge/i/cMlkp0"><img src="https://i.im.ge/2024/02/05/cMlkp0.Sprite-0001.th.png" alt="Sprite-0001" border="0" /></a>
