@@ -1,1 +1,4 @@
-<a href="https://im.ge/i/cMlkp0"><img src="https://i.im.ge/2024/02/05/cMlkp0.Sprite-0001.th.png" alt="Sprite-0001" border="0" /></a>
+<img src="https://media.licdn.com/dms/image/C4D16AQEr_EgJN9ZajA/profile-displaybackgroundimage-shrink_350_1400/0/1655804747376?e=1712793600&v=beta&t=BPdptyjH1POPhtNR11BOfTGSAghxGs0pfanHDb056OY">
+<a href="#"
+    >![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=40&center=true&vCenter=true&width=1000&duration=3000&pause=600&lines=Hi+there,+i`m+Davyd!👋;42+Malága+student+and+Frontend+Developer;Welcome+to+my+GitHub+Page!😁)
+</a>
