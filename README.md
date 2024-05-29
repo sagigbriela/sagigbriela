@@ -7,7 +7,7 @@
   </a>
 </p>
 <h3 align="center">Welcome to my Github Profile!</h3>
-<p align="center">I’m currently studying Software Developer in 42Malaga and constructing a path to Cybersecurity</p>
+<p align="center">I’m currently studying Software Developer in 42Malaga and constructing a path to Cybersecurity OT in Telefonica Tech</p>
 
 <h4 align="center">💻Skills I'm Currently Acquiring</h4>
 <p align="center">
