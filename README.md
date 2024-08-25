@@ -15,4 +15,5 @@
     <img src="https://skillicons.dev/icons?i=c,python,github,azure,godot" />
   </a>
 </p>
-<script src="https://tryhackme.com/badge/3037853"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/pirelamxria.png" alt="TryHackMe">
+
