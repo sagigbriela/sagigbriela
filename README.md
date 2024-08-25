@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <a>
-    <script src="https://tryhackme.com/badge/3037853"></script>
+  <a href="https://tryhackme.com/p/pirelamxria">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/pirelamxria.png" alt="TryHackMe">
   </a>
 </p>
