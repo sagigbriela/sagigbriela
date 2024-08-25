@@ -17,5 +17,8 @@
 </p>
 <br>
 
-<p>Check my progress in TryHackme!</p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/pirelamxria.png" alt="TryHackMe">
+<p align="center>Check my progress in TryHackme!
+ <a>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/pirelamxria.png" alt="TryHackMe">
+ </a>
+</p>
