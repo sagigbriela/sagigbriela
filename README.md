@@ -15,3 +15,4 @@
     <img src="https://skillicons.dev/icons?i=c,python,github,azure,godot" />
   </a>
 </p>
+<script src="https://tryhackme.com/badge/3037853"></script>
