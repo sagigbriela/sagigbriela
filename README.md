@@ -19,6 +19,6 @@
 
 <p align="center">
   <a>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/pirelamxria.png" alt="TryHackMe">
+    <script src="https://tryhackme.com/badge/3037853"></script>
   </a>
 </p>
