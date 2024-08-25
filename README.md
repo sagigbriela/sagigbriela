@@ -15,5 +15,6 @@
     <img src="https://skillicons.dev/icons?i=c,python,github,azure,godot" />
   </a>
 </p>
-<img alignt="center" src="https://tryhackme-badges.s3.amazonaws.com/pirelamxria.png" alt="TryHackMe">
-
+<p alignt="center"  >
+ <img src="https://tryhackme-badges.s3.amazonaws.com/pirelamxria.png" alt="TryHackMe">
+</p>
