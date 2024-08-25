@@ -16,7 +16,7 @@
   </a>
 </p>
 <br>
-
+<p align="center>You can also check my progress in TryHackMe! </p>
 <p align="center">
   <a href="https://tryhackme.com/p/pirelamxria">
     <img src="https://tryhackme-badges.s3.amazonaws.com/pirelamxria.png" alt="TryHackMe">
