@@ -7,12 +7,6 @@
   </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://github.com/REal0day/cheatsheets/blob/main/image.svg" alt="REal0day's 1337 stats" />
-  </a>
-</p>
-
-
 <h3 align="center">Welcome to my Github Profile!</h3>
 <p align="center">I’m currently studying Software Developer in 42Malaga and constructing a path to Cybersecurity OT in Telefonica Tech</p>
 
